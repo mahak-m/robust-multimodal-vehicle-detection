@@ -87,27 +87,6 @@ robust-multimodal-vehicle-detection/
 
 The exact structure may change as development progresses.
 
-## Team Responsibilities
-
-| Team Member     | Responsibilities                                                                                                                    |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Madeeha Khan    | Dataset research and documentation; evaluation of dataset suitability; report preparation; collaborative implementation and testing |
-| Mahak Mishra    | Source-code repository setup and organization; baseline MVDNet implementation; collaborative implementation and testing             |
-| Samaah Abdullah | Dataset download and preprocessing; dataset organization; collaborative implementation and testing                                  |
-
-## Current Status
-
-* [x] Team formed
-* [x] Repository created
-* [x] Baseline paper selected
-* [x] Dataset selected
-* [x] Initial project plan established
-* [ ] Dataset fully prepared
-* [ ] Baseline model reproduced
-* [ ] Sensor degradation experiments implemented
-* [ ] Alternative fusion methods evaluated
-* [ ] Results analyzed
-
 ## References
 
 Qian, K., Zhu, S., Zhang, X., & Li, L. E. (2021). *Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary LiDAR and Radar Signals*. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
